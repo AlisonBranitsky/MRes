@@ -1,1 +1,6 @@
-
+install.packages("tidyverse")
+install.packages("psych")
+install.packages("yarrr")
+install.packages("afex")
+install.packages("DescTools")
+install.packages("emmeans")
